@@ -1,0 +1,14 @@
+C:\Project\C#_Conventer\SimplyUnitConverter\SimplyUnitConverter\bin\Debug\net8.0\SimplyUnitConverter.exe
+C:\Project\C#_Conventer\SimplyUnitConverter\SimplyUnitConverter\bin\Debug\net8.0\SimplyUnitConverter.deps.json
+C:\Project\C#_Conventer\SimplyUnitConverter\SimplyUnitConverter\bin\Debug\net8.0\SimplyUnitConverter.runtimeconfig.json
+C:\Project\C#_Conventer\SimplyUnitConverter\SimplyUnitConverter\bin\Debug\net8.0\SimplyUnitConverter.dll
+C:\Project\C#_Conventer\SimplyUnitConverter\SimplyUnitConverter\bin\Debug\net8.0\SimplyUnitConverter.pdb
+C:\Project\C#_Conventer\SimplyUnitConverter\SimplyUnitConverter\obj\Debug\net8.0\SimplyUnitConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\C#_Conventer\SimplyUnitConverter\SimplyUnitConverter\obj\Debug\net8.0\SimplyUnitConverter.AssemblyInfoInputs.cache
+C:\Project\C#_Conventer\SimplyUnitConverter\SimplyUnitConverter\obj\Debug\net8.0\SimplyUnitConverter.AssemblyInfo.cs
+C:\Project\C#_Conventer\SimplyUnitConverter\SimplyUnitConverter\obj\Debug\net8.0\SimplyUnitConverter.csproj.CoreCompileInputs.cache
+C:\Project\C#_Conventer\SimplyUnitConverter\SimplyUnitConverter\obj\Debug\net8.0\SimplyUnitConverter.dll
+C:\Project\C#_Conventer\SimplyUnitConverter\SimplyUnitConverter\obj\Debug\net8.0\refint\SimplyUnitConverter.dll
+C:\Project\C#_Conventer\SimplyUnitConverter\SimplyUnitConverter\obj\Debug\net8.0\SimplyUnitConverter.pdb
+C:\Project\C#_Conventer\SimplyUnitConverter\SimplyUnitConverter\obj\Debug\net8.0\SimplyUnitConverter.genruntimeconfig.cache
+C:\Project\C#_Conventer\SimplyUnitConverter\SimplyUnitConverter\obj\Debug\net8.0\ref\SimplyUnitConverter.dll
